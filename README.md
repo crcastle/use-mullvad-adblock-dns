@@ -1,4 +1,4 @@
-# Use Mullvad Adblock DNS
+# Toggle Between Mullvad Adblock DNS and Tailscale Magic DNS
 
 *Beta: May have rough edges.*
 
